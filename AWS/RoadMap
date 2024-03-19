@@ -1,0 +1,105 @@
+
+Govardhana Miriyala Kannaiah
+https://lnkd.in/g289WFfm
+
+(He/Him) • Following(He/Him) • Following
+
+AWS Cloud roadmaps should be simple.
+
+We make it complicated with roles.
+
+Ideally, it should be phases that one needs to travel through.
+
+Phase 1: Basic & General
+Phase 2: Basic & Specialized
+Phase 3: Advanced & General
+Phase 4: Advanced & Specialized
+
+Evolve through these phases by learning and mastering:
+
+𝗣𝗵𝗮𝘀𝗲 𝟭: 𝗕𝗮𝘀𝗶𝗰 & 𝗚𝗲𝗻𝗲𝗿𝗮𝗹
+- ELB (Distribute incoming application traffic)
+- NACLs (Secure subnets with custom IP rules)
+- AWS Budgets (Manage cloud costs and usage)
+- Auto Scaling (Scale EC2 capacity automatically)
+- S3 Buckets and Objects (Store and retrieve data)
+- Internet Gateways (Connect VPCs to the internet)
+- EC2 Instances (Run applications on virtual servers)
+- Route Tables (Direct network traffic from your VPC)
+- Route 53 (Route end users to Internet applications)
+- Security Groups (Filter traffic to and from instances)
+- VPC (Provision a private, isolated section of the cloud)
+- CloudWatch (Monitor resources and applications in real-time)
+- Amazon RDS (Set up, operate, and scale a relational database)
+- AWS Global Infrastructure (Leverage global reach and availability)
+- High Availability Architectures (Design fault-tolerant applications)
+- IAM Policies (Securely control access to AWS services and resources)
+- IAM Users and Groups (Manage user access and security credentials)
+- Disaster Recovery Basics (Implement backup and recovery strategies)
+
+𝗣𝗵𝗮𝘀𝗲 𝟮: 𝗕𝗮𝘀𝗶𝗰 & 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱
+- Shield (Protect against DDoS attacks)
+- SQS (Decouple application components)
+- ELB (Optimize application load balancing)
+- ECS (Run containerized applications on AWS)
+- KMS (Create and manage cryptographic keys)
+- Route 53 (Manage DNS and health-checking for apps)
+- WAF (Protect web applications from common web exploits)
+- Lambda (Run code without provisioning or managing servers)
+- Elastic Beanstalk (Deploy and manage applications in the cloud)
+- Snow Family (Migrate data into and out of AWS with physical devices)
+- CloudFront (Deliver content with low latency and high transfer speeds)
+- API Gateway (Create, publish, maintain, monitor, and secure APIs at any scale)
+- Step Functions (Coordinate multiple AWS services into serverless workflows)
+- EKS (Deploy, manage, and scale containerized applications using Kubernetes)
+- SNS (Decouple and scale microservices, distributed systems, and serverless applications)
+- RDS (Enhance database performance with Read Replicas and Multi-AZ deployments)
+- S3 (Implement lifecycle rules and cross-region replication for data management)
+- Secrets Manager (Protect secrets needed to access your applications, services, and IT resources)
+
+AWS Cloud roadmaps - Part 2
+
+The below phases cover advanced levels; try them after evolving through the basic levels in Part 1 (link at the post's end).
+
+𝗣𝗵𝗮𝘀𝗲 𝟯: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 & 𝗚𝗲𝗻𝗲𝗿𝗮𝗹
+- CloudFormation (Automate the deployment of AWS resources)
+- Organizations (Centrally manage billing; control access, compliance, and security)
+- Advanced VPC Networking (Implement custom VPCs, VPNs, and Direct Connect)
+- EC2 Auto Scaling (Optimize app performance and costs)
+- EFS (configure scalable file storage)
+- CloudFront (Securely deliver data and APIs globally)
+- Direct Connect (Establish a dedicated network connection from your premises to AWS)
+- Route 53 (Configure DNS failover and traffic routing policies)
+- Systems Manager (Gain operational insights)
+- S3 Advanced Features (Implement S3 Transfer Acceleration, S3 Select, and lifecycle policies)
+- RDS Performance Insights (Monitor database performance and analyze load)
+- Lambda Advanced Features (Manage function execution and configure reserved concurrency)
+- DynamoDB (Design and use DynamoDB for high-performance scaling)
+- Config (Track AWS resource configs and changes)
+- ECS Advanced Features (Optimize container orchestration and management)
+- CloudTrail (Enable governance, compliance, operational and risk auditing)
+- CloudWatch Advanced Monitoring (Utilize detailed monitoring, custom metrics, and logging)
+- ElastiCache (Deploy, operate, and scale an in-memory data store or cache)
+- KMS (Control the use of encryption)
+- Elastic Beanstalk Multi-Container Docker (Deploy and manage multi-container apps)
+
+𝗣𝗵𝗮𝘀𝗲 𝟰: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 & 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗲𝗱
+- Machine Learning Services (Build, train, and deploy ML models with SageMaker)
+- Aurora (Leverage high performance and availability with fully managed relational database)
+- Redshift (Design and manage petabyte-scale data warehousing)
+- Blockchain Templates (Create and deploy secure blockchain networks)
+- QLDB (Use a fully managed ledger database)
+- Greengrass (Run local compute, messaging, data caching, and sync for connected devices)
+- Lex (Build conversational interfaces using voice and text)
+- IoT Core (Connect devices to the cloud)
+- Outposts (Run a consistent hybrid experience)
+- Wavelength (Deploy apps at the edge)
+- Fargate (Run containers without managing servers or clusters)
+- EKS on Fargate (Automate serverless Kubernetes deployments)
+- Forecast (Accurately forecast business conditions with ML)
+- Personalize (Create real-time personalized user experiences)
+- Direct Connect Gateway (Connect to AWS Direct Connect locations and to VPCs across regions)
+- Elastic Inference (Attach low-cost ML inference acceleration to EC2 and SageMaker instances)
+- Lake Formation (Simplify the process of building secure data lakes)
+
+Like architectures, roadmaps are purely subjective.
